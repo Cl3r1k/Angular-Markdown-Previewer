@@ -1,0 +1,33 @@
+// To push changes on githubpages
+// ng build --prod --base-href "https://Cl3r1k.github.io/Angular-Markdown-Previewer/"
+// angular-cli-ghpages --repo=https://github.com/Cl3r1k/Angular-Markdown-Previewer.git --name=Cl3r1k --email=cl3r1k2@gmail.com --no-silent
+
+Todos:
+    New:
+        Current:
+          ☐ Write business logic (look here https://codepen.io/freeCodeCamp/full/JXrLLE)
+            ☐ I can type GitHub-flavored Markdown into a text area.
+            ☐ I can see a preview of the output of my markdown that is updated as I type.
+      
+      ☐ Some UI ideas from ...
+
+      Hint: 
+        ☐ You don't need to interpret Markdown yourself - you can import the Marked library for this: https://cdnjs.com/libraries/marked
+
+      ☐ Build UI (example here ...)
+      ☐ Add 'Fork on github' in the corner or github share link (like here https://firestarter-96e46.firebaseapp.com/)
+      ☐ Add footer (preferably fixed bottom)
+      ☐ Correct e2e test
+      ☐ Write Unit tests
+
+      ☐ Add spinner before Angular component loading (use https://jsfiddle.net/Cl3r1k/hyqdzgfn/)
+
+      ☐ Deploy on gh-pages
+      ☐ Deploy on codepen (https://codepen.io/Cl3r1k/pen/)
+            
+    Done:
+        
+
+    Canceled:
+        
+        
