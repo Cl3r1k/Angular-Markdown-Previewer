@@ -5,8 +5,16 @@
 
 @import 'forkongithub';
 @import 'spinner';
-$bgBodyColor: #dddddd;
+$bgBodyColor: #eeeeee;
 $anchorColor: #17840b;
+$debugMode: 'true';
+$gridHeaderColor: #4a4a4a;
+$gridContentColor: none;
+$gridFooterColor: none;
+// Debuging for grid
+// $gridHeaderColor: #19d5f7;
+// $gridContentColor: #fc8ff6;
+// $gridFooterColor: #7ae6a9;
 html,
 body,
 p {
@@ -40,27 +48,31 @@ html {
 
 body {
     height: 100%;
-    display: grid;
-    grid-template-columns: repeat(12 1fr);
-    grid-template-rows: auto 1fr auto;
-    grid-gap: 5px;
     margin: 0;
-    text-align: center;
+}
+
+.grid-container {
+    font-family: Georgia, Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+    height: 100%;
+    display: grid;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: auto 1fr auto;
+    // grid-gap: 5px;
+    margin: 0;
     .header {
         grid-column: span 12;
-        padding: 20px 10px;
-        color: red;
-        background-color: aqua;
+        padding: 0px 30px;
+        color: white;
+        background-color: $gridHeaderColor;
     }
     .content {
-        grid-column: 2/12;
-        display: flex;
-        align-items: center;
-        justify-content: center;
-        background-color: #ff25a0;
+        grid-column: span 12;
+        background-color: $gridContentColor;
+        // padding: 10px 0;
     }
     .footer {
-        background-color: #55ffa0;
+        text-align: center;
+        background-color: $gridFooterColor;
         grid-column: span 12;
         padding-top: 10px;
         padding-bottom: 10px;
@@ -82,7 +94,14 @@ body {
     fill: currentColor;
 }
 
-.icon-dice {
+.icon-markdown {
+    font-size: 50px;
+    margin-bottom: -16px;
+    margin-right: 5px;
+    color: aqua;
+}
+
+.icon-file-text {
     font-size: 20px;
     margin-bottom: -5px;
 }
