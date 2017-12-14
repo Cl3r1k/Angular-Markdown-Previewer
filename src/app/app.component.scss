@@ -1,0 +1,33 @@
+.wrapper {
+    display: flex;
+    .input-text {
+        min-width: 450px;
+        max-width: 450px;
+        min-height: 150px;
+        max-height: 1000px;
+        height: 650px;
+        width: 450px;
+        margin: 0 10px;
+        border-radius: 3px;
+        padding: 10px;
+    }
+    .output-text {
+        @extend .input-text;
+        margin-top: 2px;
+        text-align: initial;
+        height: initial;
+        max-height: initial;
+        h1,
+        h2,
+        h3,
+        h4,
+        h5,
+        h6 {
+            font-weight: 500;
+        }
+        p {
+            margin: 0 0 10px 0;
+        }
+        overflow: auto;
+    }
+}

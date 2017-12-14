@@ -5,22 +5,31 @@
 Todos:
     New:
         Current:
-          ☐ Write business logic (look here https://codepen.io/freeCodeCamp/full/JXrLLE)
-            ☐ I can type GitHub-flavored Markdown into a text area.
-            ☐ I can see a preview of the output of my markdown that is updated as I type.
+          ✔ Write business logic (look here https://codepen.io/freeCodeCamp/full/JXrLLE) @done(17-12-14 16:18)
+            ✔ I can type GitHub-flavored Markdown into a text area. @done(17-12-14 16:17)
+            ✔ I can see a preview of the output of my markdown that is updated as I type. @done(17-12-14 16:17)
       
-      ☐ Some UI ideas from ...
+      ☐ Some UI ideas from:
+          `https://jbt.github.io/markdown-editor/#bVNBbtswELzzFVs4gO3GltpremqTpgkQA0WTnoICoUVSpC1yBXJlJyn69y4pw84hgAnJ5HBmd2Y1gdkPRzfDenndyR1GreawknGrcB/gu3KEUYhvMrkGhqTN0IHRkoaooXOJLoSAj3BJsTu/hxouveInISS500BWg3GdPkGsM3QCHv4xvLGISR8vynQqASPcPKzuMsdVlC3IoEBF7EEWbnCBb1kdy+0OpQJHGXydDxsMpAMlkHyeqfk0lLp+/7qDhPCCAzQyQLIZkQmTEOJ26iEgtIgKJME+OnKhZQLfM2mdcZ2OQPqZFpmlxYJhCfSabMYycUy6M5UQd4jbBZeb/fpQ/DKI+bGWcXy8CvGV28pdTFMh4cqV/gAX55/Z4aenp43cydRE15M4m5khNOQwzOZ/BcDZbKrcbjqvLPluNr0F6VmMt6rp/Iv4x4vvC/FgXQL+PWKAMfA/M0vUp4u6bh3ZYV016OvNmmp/8H6pS/zz3GKnCbisbcA9OAO3U45p/Slus6NUSt7n8rld8ZPTSTmNVazgCnFdMsvyj7krGFlHdRb3UTGmiPcRN7qhVGfcQb2eL8BE9LC3rrEiZ+dC6l2U2YIsw4anRdEozll+ewGXo/Kc/QjjTIhBjfS5xMlkAvc0GJNHWmUOL7e6EI0D/Xi0wNG7Nr05f/s+52jjaXZ7GRMPQ2G85JZWLsY3necufdmqgqZ6vJwblHtdWkkvXP/z0rrWdryIax1NKYzH7WqTjpwJDe15lr0MTjapwtiWvfqIrnU4SI30cDzJc8ufBw7UD1QmENYdNttU5DZpqbTpJOl3HVEybLGVrj7hRpX21fV9pkYDSpI82s1zY3ixIn+MSfwH`
+          `https://markdown-preview-js.herokuapp.com/`
+          `https://codepen.io/jacobBogers/pen/ezJgJG`
+          `https://codepen.io/d33con/full/reJKxj/`
+
+      ☐ Change footer icon
 
       Hint: 
         ☐ You don't need to interpret Markdown yourself - you can import the Marked library for this: https://cdnjs.com/libraries/marked
 
       ☐ Build UI (example here ...)
-      ☐ Add 'Fork on github' in the corner or github share link (like here https://firestarter-96e46.firebaseapp.com/)
+      ☐ Add 'Fork on github' in the corner or github share link (like here https://firestarter-96e46.firebaseapp.com/) (use ribbon)
       ☐ Add footer (preferably fixed bottom)
       ☐ Correct e2e test
       ☐ Write Unit tests
 
-      ☐ Add spinner before Angular component loading (use https://jsfiddle.net/Cl3r1k/hyqdzgfn/)
+      ✔ Add spinner before Angular component loading (use https://jsfiddle.net/Cl3r1k/hyqdzgfn/) @done(17-12-12 16:12)
+
+      ☐ Change flexbox to CSS Grids (look here https://proglib.io/p/css-grid-vs-bootstrap/ and here https://proglib.io/p/css-grid/)
+      ☐ Steaky-footer on CSS Grid (look here https://codepen.io/matuzo/pen/JOyzOj?editors=1100)
 
       ☐ Deploy on gh-pages
       ☐ Deploy on codepen (https://codepen.io/Cl3r1k/pen/)
