@@ -5,7 +5,7 @@
 Todos:
     New:
         Current:
-            ☐ Correct e2e test
+            ✔ Correct e2e test @done(17-12-20 16:11)
             ☐ Write Unit tests
             ☐ Deploy on gh-pages
             ☐ Deploy on codepen (https://codepen.io/Cl3r1k/pen/)
