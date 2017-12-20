@@ -7,9 +7,10 @@ Todos:
         Current:
             ✔ Correct e2e test @done(17-12-20 16:11)
             ✔ Write Unit tests @done(17-12-20 16:35)
-            ☐ Deploy on gh-pages
+            ✔ Deploy on gh-pages @done(17-12-20 16:39)
             ☐ Deploy on codepen (https://codepen.io/Cl3r1k/pen/)
-
+            
+    Done:
         ✔ Write business logic (look here https://codepen.io/freeCodeCamp/full/JXrLLE) @done(17-12-14 16:18)
             ✔ I can type GitHub-flavored Markdown into a text area. @done(17-12-14 16:17)
             ✔ I can see a preview of the output of my markdown that is updated as I type. @done(17-12-14 16:17)
@@ -30,9 +31,6 @@ Todos:
         ✔ Change flexbox to CSS Grids (look here https://proglib.io/p/css-grid-vs-bootstrap/ and here https://proglib.io/p/css-grid/) @done(17-12-15 16:09)
         ✔ Add footer (preferably fixed bottom) @done(17-12-15 16:09)
             ✔ Steaky-footer on CSS Grid (look here https://codepen.io/matuzo/pen/JOyzOj?editors=1100) @done(17-12-15 16:09)
-            
-    Done:
-        
 
     Canceled:
         
