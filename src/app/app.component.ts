@@ -1,5 +1,6 @@
 import { Component, OnInit, DoCheck } from '@angular/core';
 import * as _marked from 'marked';
+// import * as _marked from 'your-library';
 
 @Component({
     selector: 'app-root',
